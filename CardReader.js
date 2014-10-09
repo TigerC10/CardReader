@@ -142,4 +142,4 @@ CardReader.prototype = {
 	cardError: function (errback) {
 		this.errbacks.push(errback);
 	},
-}
+};
